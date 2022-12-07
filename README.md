@@ -1,4 +1,14 @@
-### Hi there 👋
+### ¡Hola!. 👋👋👋 Soy José Antonio Quintero Maya.
+
+Soy de Vigo y actualmente estoy aprendiendo a programar en Java. 🌱
+
+¡Nos leemos!. :blush: :computer:
+
+<div align=center>
+
+![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
+  
+</div>
 
 <!--
 **Joseaquinterom/Joseaquinterom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
